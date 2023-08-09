@@ -10,4 +10,6 @@ These are important command for linux
 
 5} mv - use to move file or direcotry
 
+6] touch - use to create file .example touch <filename>.txt
 
+7] mkdir - use to create directory
